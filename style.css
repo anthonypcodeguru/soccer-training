@@ -1,0 +1,31 @@
+body
+{
+  background-color:aqua;
+  color:black
+}
+
+header
+{
+  background-color:yellow;
+  color:green;
+
+}
+
+nav
+{
+  float:left;
+  width:29%;
+}
+section
+{
+  float:right;
+  width:70%;
+  color:red;
+  background-color:white;
+}
+
+footer
+{
+  clear:both;
+  background-color:blue;
+}
